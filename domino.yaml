@@ -1,0 +1,5 @@
+datasetConfigurations:
+  - name: "automated data ingestion"
+    outputs:
+      - path: "flight_data"
+        dataset: "flight_data"

@@ -1,0 +1,15 @@
+[I 17:00:17.272 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 17:00:17.458 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 17:00:18.061 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 17:00:18.061 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 17:00:18.276 LabApp] Serving notebooks from local directory: /
+[I 17:00:18.276 LabApp] The Jupyter Notebook is running at:
+[I 17:00:18.276 LabApp] http://run-5f35717c9178d94c3e205774-qk79z:8888/dsp_cg/data-access-pipeline/notebookSession/5f35717c9178d94c3e205774/
+[I 17:00:18.276 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:00:18.282 LabApp] 302 GET /dsp_cg/data-access-pipeline/notebookSession/5f35717c9178d94c3e205774/ (100.96.84.52) 0.71ms
+[I 17:00:18.479 LabApp] 302 GET /dsp_cg/data-access-pipeline/notebookSession/5f35717c9178d94c3e205774/ (100.96.84.52) 0.46ms
+[I 17:00:18.786 LabApp] 302 GET /dsp_cg/data-access-pipeline/notebookSession/5f35717c9178d94c3e205774/ (100.96.84.52) 0.45ms
+[I 17:00:23.072 LabApp] Build is up to date
+[I 17:03:53.071 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
